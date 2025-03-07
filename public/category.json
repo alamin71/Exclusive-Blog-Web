@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "ALL"
+  },
+  {
+    "id": 2,
+    "name": "Bangladesh"
+  },
+  {
+    "id": 3,
+    "name": "International"
+  },
+  {
+    "id": 4,
+    "name": "Sports"
+  },
+  {
+    "id": 5,
+    "name": "Entertainment"
+  }
+]
