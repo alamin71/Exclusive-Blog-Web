@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "category_name": "Bangladesh",
     "cover": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d",
     "title": "The Future of AI: Opportunities and Challenges",
     "author": "John Doe",
@@ -10,7 +11,53 @@
     "hastag": ["#AI", "#Technology", "#Future"]
   },
   {
+    "id": 6,
+    "category_name": "Bangladesh",
+    "cover": "https://images.unsplash.com/photo-1533634975658-23d4ef7b7d94",
+    "title": "Dhaka Metro: The Future of Urban Transport",
+    "author": "Rahim Khan",
+    "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
+    "reading_time": 6,
+    "posted_date": "2025-03-10",
+    "hastag": ["#Dhaka", "#Metro", "#Transport"]
+  },
+  {
+    "id": 7,
+    "category_name": "Bangladesh",
+    "cover": "https://images.unsplash.com/photo-1556741533-f6acd6474852",
+    "title": "The Rise of E-Commerce in Bangladesh",
+    "author": "Sabrina Alam",
+    "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
+    "reading_time": 8,
+    "posted_date": "2025-03-12",
+    "hastag": ["#Ecommerce", "#Bangladesh", "#OnlineShopping"]
+  },
+  {
+    "id": 8,
+    "category_name": "Bangladesh",
+    "cover": "https://images.unsplash.com/photo-1560448070-993164c4f30f",
+    "title": "Renewable Energy: A Bright Future for Bangladesh",
+    "author": "Tanvir Hasan",
+    "author_img": "https://randomuser.me/api/portraits/men/8.jpg",
+    "reading_time": 7,
+    "posted_date": "2025-03-15",
+    "hastag": ["#Energy", "#Renewable", "#Solar"]
+  },
+  {
+    "id": 9,
+    "category_name": "Bangladesh",
+    "cover": "https://images.unsplash.com/photo-1528901166007-3784c7dd3653",
+    "title": "Tourism in Cox's Bazar: Challenges and Opportunities",
+    "author": "Mariam Akter",
+    "author_img": "https://randomuser.me/api/portraits/women/9.jpg",
+    "reading_time": 9,
+    "posted_date": "2025-03-18",
+    "hastag": ["#Tourism", "#CoxsBazar", "#Travel"]
+  },
+
+  {
     "id": 2,
+    "category_name": "International",
     "cover": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
     "title": "Exploring the Beauty of the Himalayas",
     "author": "Jane Smith",
@@ -20,7 +67,31 @@
     "hastag": ["#Travel", "#Adventure", "#Nature"]
   },
   {
+    "id": 10,
+    "category_name": "International",
+    "cover": "https://images.unsplash.com/photo-1576085898323-218337e3e23c",
+    "title": "SpaceX's Mars Mission: What to Expect",
+    "author": "Elon Musk",
+    "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "reading_time": 10,
+    "posted_date": "2025-03-20",
+    "hastag": ["#SpaceX", "#Mars", "#Technology"]
+  },
+  {
+    "id": 11,
+    "category_name": "International",
+    "cover": "https://images.unsplash.com/photo-1605792657660-596af9009e82",
+    "title": "Global Warming: A Crisis We Can't Ignore",
+    "author": "Sophia Green",
+    "author_img": "https://randomuser.me/api/portraits/women/11.jpg",
+    "reading_time": 6,
+    "posted_date": "2025-03-22",
+    "hastag": ["#ClimateChange", "#Environment", "#GlobalWarming"]
+  },
+
+  {
     "id": 3,
+    "category_name": "Sports",
     "cover": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
     "title": "The Art of Minimalist Living",
     "author": "Michael Johnson",
@@ -30,7 +101,20 @@
     "hastag": ["#Minimalism", "#Lifestyle", "#Simplicity"]
   },
   {
+    "id": 12,
+    "category_name": "Sports",
+    "cover": "https://images.unsplash.com/photo-1546519638-68e109498ffc",
+    "title": "The Impact of AI in Modern Sports",
+    "author": "David Beckham",
+    "author_img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "reading_time": 8,
+    "posted_date": "2025-03-25",
+    "hastag": ["#AI", "#Sports", "#Technology"]
+  },
+
+  {
     "id": 4,
+    "category_name": "Entertainment",
     "cover": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24",
     "title": "Mastering the Art of Cooking at Home",
     "author": "Emily Brown",
@@ -41,6 +125,7 @@
   },
   {
     "id": 5,
+    "category_name": "Entertainment",
     "cover": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
     "title": "The Evolution of Electric Vehicles",
     "author": "Robert Wilson",
@@ -48,5 +133,16 @@
     "reading_time": 9,
     "posted_date": "2025-03-01",
     "hastag": ["#EV", "#Sustainability", "#Technology"]
+  },
+  {
+    "id": 13,
+    "category_name": "Entertainment",
+    "cover": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
+    "title": "Hollywood's New Era of Digital Filmmaking",
+    "author": "Christopher Nolan",
+    "author_img": "https://randomuser.me/api/portraits/men/13.jpg",
+    "reading_time": 10,
+    "posted_date": "2025-03-27",
+    "hastag": ["#Hollywood", "#Movies", "#Technology"]
   }
 ]

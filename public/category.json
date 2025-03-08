@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "name": "ALL"
+    "category_name": "ALL"
   },
   {
     "id": 2,
-    "name": "Bangladesh"
+    "category_name": "Bangladesh"
   },
   {
     "id": 3,
-    "name": "International"
+    "category_name": "International"
   },
   {
     "id": 4,
-    "name": "Sports"
+    "category_name": "Sports"
   },
   {
     "id": 5,
-    "name": "Entertainment"
+    "category_name": "Entertainment"
   }
 ]
